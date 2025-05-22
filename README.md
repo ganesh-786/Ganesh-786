@@ -40,7 +40,7 @@ Check out my repositories to see the magic in action ✨
 Let's grow together! Reach me through:
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ganeshtharu](https://www.linkedin.com/in/ganesh-chaudhary-684843269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/" target="_blank">
+  <a href="https://www.linkedin.com/in/ganesh-chaudhary-684843269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ganesh98245.np@gmail.com">
