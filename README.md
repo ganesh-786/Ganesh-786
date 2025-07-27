@@ -23,7 +23,7 @@
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,django,flask,jest,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,django,flask,git,github,vscode" alt="Skills" />
 </p>
 
 ---
