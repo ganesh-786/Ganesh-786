@@ -12,7 +12,7 @@
 🎯 I’m a passionate **Front-end Developer** based in 🌏 Nepal.  
 💡 My core stack includes:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS, JavaScript  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 React.js & Bootstrap  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 React.js, Node.js, Express.js, API, RAG, MCP Tool integration, Tailwind & Bootstrap  
 📦 I also explore the backend with:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 Node.js, Python (Flask & Django)  
 🔗 I specialize in integrating APIs and deploying full-stack applications.  
