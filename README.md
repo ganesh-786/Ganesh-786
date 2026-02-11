@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 What I Bring to the Table
+## 🧠 What I Bring
 
 - 🧩 **Front-End Excellence:** Interactive, performant, and pixel-perfect UIs  
 - ⚙️ **Back-End Mastery:** Robust, scalable REST APIs & secure server logic  
