@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=Full-Stack+Developer;React+%26+Node.js+Expert;API+Integrator+%26+Prompt+Engineer;MCP+Tool+%26+Vector+Database+Enthusiast;Lifelong+Learner+%26+Tech+Innovator" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganesh-786&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -49,14 +53,19 @@
 - 🧭 **Prompt Engineering:** Building intelligent systems that think with context  
 
 ---
+## 📊 GitHub Stats
 
-## 🛠️ Featured Projects
-
-> 💼 I love transforming ideas into digital reality.  
-Explore my repositories to see my projects in action.
-
-[![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganesh-786&show_icons=true&theme=tokyonight)](https://github.com/ganesh-786)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-786&layout=compact&theme=tokyonight)](https://github.com/ganesh-786)
+<!--
+  These SVGs are generated and committed by .github/workflows/update-readme-stats.yml
+  (a self-hosted GitHub Action), NOT fetched live from the public Vercel service.
+  This means they never break due to third-party rate limits or downtime.
+  First-time setup: go to the "Actions" tab of this repo and manually run
+  "Update Profile Stats" once so profile/stats.svg and profile/top-langs.svg exist.
+-->
+<p align="center">
+  <img height="165" src="https://raw.githubusercontent.com/Ganesh-786/Ganesh-786/master/profile/stats.svg" alt="Ganesh's GitHub Stats" />
+  <img height="165" src="https://raw.githubusercontent.com/Ganesh-786/Ganesh-786/master/profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ---
 
